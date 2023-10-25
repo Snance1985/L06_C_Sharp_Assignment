@@ -1,0 +1,15 @@
+C:\Users\sean_\Desktop\csharp-course\l06-assignment\bin\Debug\net6.0\l06-assignment.exe
+C:\Users\sean_\Desktop\csharp-course\l06-assignment\bin\Debug\net6.0\l06-assignment.deps.json
+C:\Users\sean_\Desktop\csharp-course\l06-assignment\bin\Debug\net6.0\l06-assignment.runtimeconfig.json
+C:\Users\sean_\Desktop\csharp-course\l06-assignment\bin\Debug\net6.0\l06-assignment.dll
+C:\Users\sean_\Desktop\csharp-course\l06-assignment\bin\Debug\net6.0\l06-assignment.pdb
+C:\Users\sean_\Desktop\csharp-course\l06-assignment\obj\Debug\net6.0\l06-assignment.csproj.AssemblyReference.cache
+C:\Users\sean_\Desktop\csharp-course\l06-assignment\obj\Debug\net6.0\l06-assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sean_\Desktop\csharp-course\l06-assignment\obj\Debug\net6.0\l06-assignment.AssemblyInfoInputs.cache
+C:\Users\sean_\Desktop\csharp-course\l06-assignment\obj\Debug\net6.0\l06-assignment.AssemblyInfo.cs
+C:\Users\sean_\Desktop\csharp-course\l06-assignment\obj\Debug\net6.0\l06-assignment.csproj.CoreCompileInputs.cache
+C:\Users\sean_\Desktop\csharp-course\l06-assignment\obj\Debug\net6.0\l06-assignment.dll
+C:\Users\sean_\Desktop\csharp-course\l06-assignment\obj\Debug\net6.0\refint\l06-assignment.dll
+C:\Users\sean_\Desktop\csharp-course\l06-assignment\obj\Debug\net6.0\l06-assignment.pdb
+C:\Users\sean_\Desktop\csharp-course\l06-assignment\obj\Debug\net6.0\l06-assignment.genruntimeconfig.cache
+C:\Users\sean_\Desktop\csharp-course\l06-assignment\obj\Debug\net6.0\ref\l06-assignment.dll
